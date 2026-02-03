@@ -170,3 +170,4 @@ elif menu == "Contact":
     email = "sasha.allen@example.com"
     st.write(f"You can reach me at {email}.") 
     st.markdown("This page represents my journey into ethical AI and healthcare innovation.")
+
